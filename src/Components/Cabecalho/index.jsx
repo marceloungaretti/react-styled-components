@@ -24,7 +24,7 @@ height: 10vh;
 align-items: center;
 `;
 
-const Logo = styled.image`
+const Logo = styled.img`
 height: 50px;
 width: 50px;
 `;
